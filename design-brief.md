@@ -33,6 +33,15 @@ Develop a Python-based numerical simulation tool for space systems mission analy
 ### Reference Frames
 - Support Earth-Centered Inertial (ECI) and Earth-Centered Earth-Fixed (ECEF) frames.
 
+### Coordinate Systems
+- Implement coordinate transformations between:
+  - Cartesian (x, y, z)
+  - Spherical (r, θ, φ)
+  - Geographic (latitude, longitude, altitude)
+  - Topocentric (azimuth, elevation, range)
+- Support coordinate frame transformations
+- Handle units and conversions
+
 ### Trajectory Propagation
 - Implement basic propagators:
   - **Keplerian Model:** Based on orbital elements.

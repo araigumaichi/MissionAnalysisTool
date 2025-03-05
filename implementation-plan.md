@@ -24,10 +24,16 @@ This document outlines the step-by-step implementation plan for developing an or
 - Unit tests for all classes
 - Constants and parameters management
 
-### 2.2 Reference Frames (1 week)
+### 2.2 Reference Frames and Coordinates (1 week)
 - ECI frame implementation
 - ECEF frame implementation
 - Frame transformation utilities
+- Coordinate system implementations:
+  - Cartesian coordinates
+  - Spherical coordinates
+  - Geographic coordinates
+  - Topocentric coordinates
+- Coordinate transformation utilities
 - Comprehensive testing suite
 
 ## Phase 3: Orbital Mechanics Foundation (3 weeks)
